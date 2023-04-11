@@ -11482,11 +11482,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Layanan\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "D:\\Layanan\\TodoApi\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "D:\\Layanan\\TodoApi\\TodoApi.csproj",
+      "projectPath": "D:\\Layanan\\TodoApi\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\kalis\\.nuget\\packages\\",
-      "outputPath": "D:\\Layanan\\TodoApi\\obj\\",
+      "outputPath": "D:\\Layanan\\TodoApi\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kalis\\AppData\\Roaming\\NuGet\\NuGet.Config",

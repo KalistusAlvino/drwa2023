@@ -4,13 +4,13 @@ using TodoApi.Models;
 
 namespace TodoApi.Controllers;
 
-[Route("guru")]
+[Route("Jadwalguru")]
 [ApiController]
-public class GuruController : ControllerBase
+public class JadwalController : ControllerBase
 {
     private readonly TodoContext _context;
 
-    public GuruController(TodoContext context)
+    public JadwalController(TodoContext context)
     {
         _context = context;
     }
@@ -31,8 +31,6 @@ public class GuruController : ControllerBase
             new { id = todoItem.Id },
             ItemToDTO(todoItem));
     }
-
-    // GET: api/TodoItems
     [HttpGet]
     public async Task<ActionResult<IEnumerable<TodoItemDTO>>> GetTodoItems()
     {
@@ -40,9 +38,6 @@ public class GuruController : ControllerBase
             .Select(x => ItemToDTO(x))
             .ToListAsync();
     }
-
-    // GET: api/TodoItems/5
-    // <snippet_GetByID>
     [HttpGet("{nip}")]
     public async Task<ActionResult<TodoItemDTO>> GetTodoItem(long id)
     {
@@ -52,65 +47,22 @@ public class GuruController : ControllerBase
         {
             return NotFound();
         }
+        return ItemToDTO(todoItem);
+    }
+    [HttpGet("{id_mapel}")]
+    public async Task<ActionResult<TodoItemDTO>> GetJadwalGuru(long idMapel)
+    {
+        var todoItem = await _context.TodoItems.FindAsync(idMapel);
+
+        if (todoItem == null)
+        {
+            return NotFound();
+        }
 
         return ItemToDTO(todoItem);
     }
-    // </snippet_GetByID>
-
-    // PUT: api/TodoItems/5
-    // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-    // <snippet_Update>
-    /*[HttpPut("{id}")]
-    public async Task<IActionResult> PutTodoItem(long id, TodoItemDTO todoDTO)
-    {
-        if (id != todoDTO.Id)
-        {
-            return BadRequest();
-        }
-
-        var todoItem = await _context.TodoItems.FindAsync(id);
-        if (todoItem == null)
-        {
-            return NotFound();
-        }
-
-        todoItem.Name = todoDTO.Name;
-        todoItem.IsComplete = todoDTO.IsComplete;
-
-        try
-        {
-            await _context.SaveChangesAsync();
-        }
-        catch (DbUpdateConcurrencyException) when (!TodoItemExists(id))
-        {
-            return NotFound();
-        }
-
-        return NoContent();
-    }
-    // </snippet_Update>
-
-    // POST: api/TodoItems
-    // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-    // <snippet_Create>
-
-    // </snippet_Create>
-
-    // DELETE: api/TodoItems/5
-    [HttpDelete("{id}")]
-    public async Task<IActionResult> DeleteTodoItem(long id)
-    {
-        var todoItem = await _context.TodoItems.FindAsync(id);
-        if (todoItem == null)
-        {
-            return NotFound();
-        }
-
-        _context.TodoItems.Remove(todoItem);
-        await _context.SaveChangesAsync();
-
-        return NoContent();
-    }*/
+    
+    
 
     private bool TodoItemExists(long id)
     {

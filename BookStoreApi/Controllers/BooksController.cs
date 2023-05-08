@@ -30,34 +30,13 @@ public class BooksController : ControllerBase
         return book;
     }
 
+   // [HttpPost]
     [HttpPost]
     public async Task<IActionResult> Post(Book newBook)
     {
-        try 
-        {
-        if(newBook == null)
-            {
-                return BadRequest();
-            }
-
-        // Add custom model validation error
-        /*var book = _booksService.GetAsync(newBook.Id);
-
-        if(book != null)
-        {
-            ModelState.AddModelError("ID", "Required ID or ID Cannot be Same");
-            return BadRequest(ModelState);
-        }
-        */
         await _booksService.CreateAsync(newBook);
 
-        return CreatedAtAction(nameof(Get), new { id = newBook.Id},newBook);
-    }
-    catch (Exception)
-    {
-        return StatusCode(StatusCodes.Status500InternalServerError,
-            "Error retrieving data from the database");
-    }
+        return CreatedAtAction(nameof(Get), new { id = newBook.Id }, newBook);
     }
 
     [HttpPut("{id:length(24)}")]

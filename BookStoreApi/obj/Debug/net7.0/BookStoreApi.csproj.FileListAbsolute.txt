@@ -92,3 +92,10 @@ D:\KULIAH\Sem 4\Layanan\BookStoreApi\obj\Debug\net7.0\BookStoreApi.genruntimecon
 D:\KULIAH\Sem 4\Layanan\BookStoreApi\obj\Debug\net7.0\ref\BookStoreApi.dll
 D:\KULIAH\Sem 4\Layanan\BookStoreApi\bin\Debug\net7.0\BookStoreApi.xml
 D:\KULIAH\Sem 4\Layanan\BookStoreApi\obj\Debug\net7.0\BookStoreApi.xml
+D:\KULIAH\Sem 4\Layanan\BookStoreApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll

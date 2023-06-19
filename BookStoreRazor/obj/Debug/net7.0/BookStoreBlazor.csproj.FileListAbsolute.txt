@@ -1,0 +1,1656 @@
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\BookStoreBlazor.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\BookStoreBlazor.pdb
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.3.xryactapp5.js
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\icudt.dat
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.3.xryactapp5.js.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\BookStoreBlazor.pdb.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\BookStoreBlazor.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\icudt.dat.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\BookStoreBlazor.staticwebassets.runtime.json
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\BookStoreBlazor.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\BookStoreBlazor.pdb
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.CSharp.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.VisualBasic.Core.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Win32.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\Microsoft.Win32.Registry.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.AppContext.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Buffers.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Collections.Concurrent.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Collections.Immutable.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Collections.NonGeneric.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Collections.Specialized.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Collections.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.ComponentModel.Annotations.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.ComponentModel.DataAnnotations.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.ComponentModel.EventBasedAsync.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.ComponentModel.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.ComponentModel.TypeConverter.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.ComponentModel.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Configuration.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Console.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Core.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Data.Common.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Data.DataSetExtensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Data.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Diagnostics.Contracts.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Diagnostics.Debug.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Diagnostics.FileVersionInfo.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Diagnostics.Process.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Diagnostics.StackTrace.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Diagnostics.TextWriterTraceListener.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Diagnostics.Tools.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Diagnostics.TraceSource.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Diagnostics.Tracing.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Drawing.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Drawing.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Dynamic.Runtime.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Formats.Tar.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Globalization.Calendars.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Globalization.Extensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Globalization.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.Compression.Brotli.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.Compression.FileSystem.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.Compression.ZipFile.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.Compression.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.FileSystem.AccessControl.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.FileSystem.DriveInfo.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.FileSystem.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.FileSystem.Watcher.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.FileSystem.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.IsolatedStorage.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.MemoryMappedFiles.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.Pipes.AccessControl.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.Pipes.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.UnmanagedMemoryStream.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.IO.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Linq.Expressions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Linq.Parallel.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Linq.Queryable.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Linq.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Memory.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.Http.Json.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.Http.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.HttpListener.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.Mail.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.NameResolution.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.NetworkInformation.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.Ping.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.Quic.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.Requests.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.Security.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.ServicePoint.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.Sockets.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.WebClient.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.WebHeaderCollection.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.WebProxy.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.WebSockets.Client.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.WebSockets.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Net.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Numerics.Vectors.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Numerics.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.ObjectModel.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Private.DataContractSerialization.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Private.Uri.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Private.Xml.Linq.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Private.Xml.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Reflection.DispatchProxy.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Reflection.Emit.ILGeneration.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Reflection.Emit.Lightweight.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Reflection.Emit.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Reflection.Extensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Reflection.Metadata.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Reflection.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Reflection.TypeExtensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Reflection.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Resources.Reader.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Resources.ResourceManager.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Resources.Writer.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.CompilerServices.VisualC.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.Extensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.Handles.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.InteropServices.JavaScript.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.InteropServices.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.Intrinsics.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.Loader.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.Numerics.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.Serialization.Formatters.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.Serialization.Json.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.Serialization.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.Serialization.Xml.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.Serialization.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Runtime.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.AccessControl.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.Claims.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.Cryptography.Algorithms.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.Cryptography.Cng.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.Cryptography.Csp.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.Cryptography.Encoding.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.Cryptography.OpenSsl.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.Cryptography.Primitives.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.Cryptography.X509Certificates.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.Cryptography.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.Principal.Windows.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.Principal.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.SecureString.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Security.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.ServiceModel.Web.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.ServiceProcess.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Text.Encoding.Extensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Text.Encoding.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Text.Json.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Text.RegularExpressions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Threading.Channels.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Threading.Overlapped.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Threading.Tasks.Dataflow.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Threading.Tasks.Extensions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Threading.Tasks.Parallel.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Threading.Tasks.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Threading.Thread.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Threading.ThreadPool.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Threading.Timer.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Threading.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Transactions.Local.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Transactions.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.ValueTuple.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Web.HttpUtility.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Web.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Windows.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Xml.Linq.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Xml.ReaderWriter.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Xml.Serialization.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Xml.XDocument.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Xml.XPath.XDocument.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Xml.XPath.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Xml.XmlDocument.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Xml.XmlSerializer.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Xml.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\WindowsBase.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\mscorlib.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\netstandard.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\System.Private.CoreLib.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\dotnet.js
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\dotnet.timezones.blat
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\dotnet.wasm
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\icudt.dat
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\icudt_CJK.dat
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\icudt_EFIGS.dat
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\bin\Debug\net7.0\icudt_no_CJK.dat
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\BookStoreBlazor.csproj.AssemblyReference.cache
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\BookStoreBlazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\BookStoreBlazor.AssemblyInfoInputs.cache
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\BookStoreBlazor.AssemblyInfo.cs
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\BookStoreBlazor.csproj.CoreCompileInputs.cache
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\BookStoreBlazor.MvcApplicationPartsAssemblyInfo.cache
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\4v+bD1sc.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\ImBoUNlg.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\0bXDz64h.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\1CsUPUES.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\ajBW4X8h.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\FUMX2eYC.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\Fx4pWekK.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\fzMx4b6i.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\+pQDMZNZ.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\G+BHq8I1.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\TD3bDV2Q.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\gD8+H6bn.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\Uc4+S7ba.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\VV69rghO.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\AgHr+xk5.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\zyOQiq7v.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\ni81PSdi.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\I7E0zYhx.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\4z9g6wbr.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\AzX81sug.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\y2NdbNDV.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\P+njwvKe.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\KHtKUdMp.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\+0NpM+KJ.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\b+33eDak.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\g20t+nJH.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\Y1Sc0Hr5.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\ZJKoKldv.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\BCRMeILz.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\+SKmIvq+.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\nS7Hnp6b.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\NUtJF0lf.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\61mruqum.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\BkL1++ll.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\+msOiqra.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\h4dK9S0J.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\NSklVrGA.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\2yl8bk8c.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\Al4NoVy6.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\oissos5k.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\lNLVd77M.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\L5GBq0Ip.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\5t+jJV4g.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\9y6OKuFY.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\FHqCDJZq.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\TGDyfN+f.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\jcBwpPl7.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\2lzKfoJo.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\2L3He11o.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\A05t4nsv.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\ugtqy6Rd.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\FRvurb+v.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\kmNWzYfm.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\8Eyq6mbi.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\MQf7TVYo.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\TlW7eJ1j.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\FH31i12x.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\X1tIi8sK.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\T4NvD3Tk.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\eMOmpwRA.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\5kaLOGfq.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\tpKUdIZo.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\K3GmQZ9d.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\8Jq5UHq3.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\j+EZnRq0.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\Ewt1T3Wu.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\9uPlhsqk.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\wI3Dn8SA.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\RT0ovRO6.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\2t6zcmwI.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\Z4hCBcHA.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\zFIvUGlj.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\y2DfzVzj.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\ITCNZY53.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\0d3yTUex.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\6wG1OfgG.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\5ad5IV+d.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\UL5Kg2s3.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\hFUzHMPu.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\s7AqHlmo.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\ZfGqNPG8.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\ohLvD6yB.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\gAfQOfZ6.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\VYh+nOZd.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\oj6i+WKo.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\DUD63WPH.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\tZalsbp4.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\AResxJM4.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\hklo6IgL.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\k2nZIgyG.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\6wOD1nM+.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\P3hVj01s.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\V1wEjoVh.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\bUItA7hr.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\dVnvjnto.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\BjofVLQA.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\37JH0uwB.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\2unL4PWh.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\kiouua6t.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\VDatKLAF.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\dzynnzCQ.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\K+e+H5c1.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\4rpRMU7c.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\P6FJGC2Y.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\e+FjF3WU.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\d7+1act1.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\vWgHX8xL.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\60dTGJJQ.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\jP6ERUCB.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\DyZJ1kay.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\D9Obhn7L.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\WthaWPw+.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\BfaYFxz3.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\Jo9xRk5r.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\DjjQTJ7a.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\FqsyWzCS.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\jMKeQ0C9.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\GrIQSv5Y.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\q+hYVCyB.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\edhH53t+.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\eQaIHgij.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\6TWjTzVT.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\cJv2R5Ko.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\k+Nmm7rl.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\D0yUEz+T.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\KpcwyeiU.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\nTCVDzzf.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\TF+bL3t3.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\XeiJXzXY.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\LpXct4TC.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\IOeuMORy.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\mb9Dulw2.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\5pq4Tu3N.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\2pa2GqDi.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\jDCxO+RP.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\B+RSj+HB.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\NV0gytgi.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\u2p5wPyx.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\fbUirxMl.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\bifWixbN.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\UJIfAc1z.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\O5kuw0r+.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\+tOp5zmA.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\ZU71e9au.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\U4+haF+7.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\wwMGxvhQ.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\TtYDp0wE.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\C7Jvl3Ro.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\27FYnYBU.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\Za2AvVSb.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\w7sCdmi+.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\MaucD5ES.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\F6x3yw+R.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\D4VOYMd4.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\MIAApEIa.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\Ld2GCwce.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\NjSNUYUV.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\Y+KvMqQX.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\Z+WROjWL.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\6s53cCeQ.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\k2YyPc4M.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\Jd7xmyto.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\+lx+pmao.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\eCqx9O4z.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\iu5Mlr3b.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\6hTqoWyG.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\OfdOE4xh.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\la06CWdZ.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\j0AXP3nZ.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\pMomrhKD.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\d5XjEU4f.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\5LvcCyaq.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\9U2ieErI.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\32EraiFL.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\7sirkDvP.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\f3XMMWoS.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\oijmt1Kp.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\QmRLqH9B.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\4fyUECFo.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\65x9vCWV.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\x9ORsNFm.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\s+FtUjXi.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\yEg9qlKS.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\gr70YeGq.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\Hhqh92RA.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\ILLS1GRA.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\jFxXmgCx.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\vzulet70.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\5r+zU6jA.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\S+Iplxdl.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\5uXiLL7t.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\EQjKTU3L.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\RFVm3L+Z.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\oKizUrRJ.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\PU3GdbKm.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\b7lreygY.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\6YWL982B.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\HSo1FJk5.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\IwAXWlQs.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\fmw6LOiY.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\build-gz\VGdH8vlX.gz
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\blazor.boot.json
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\staticwebassets\msbuild.BookStoreBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\staticwebassets\msbuild.build.BookStoreBlazor.props
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreBlazor.props
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BookStoreBlazor.props
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\staticwebassets.build.json
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\staticwebassets.development.json
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\scopedcss\bundle\BookStoreBlazor.styles.css
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\scopedcss\projectbundle\BookStoreBlazor.bundle.scp.css
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\BookStoreBlazor.csproj.CopyComplete
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\BookStoreBlazor.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\refint\BookStoreBlazor.dll
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\BookStoreBlazor.pdb
+D:\Materi\Desain RESTful Web API\Genap 20222023\BookStoreBlazor\obj\Debug\net7.0\ref\BookStoreBlazor.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\icudt.dat
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\BookStoreBlazor.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\BookStoreBlazor.pdb
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.0.gugd634smh.js
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\BookStoreBlazor.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\icudt.dat.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\BookStoreBlazor.pdb.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.0.gugd634smh.js.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\BookStoreBlazor.staticwebassets.runtime.json
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\BookStoreBlazor.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\BookStoreBlazor.pdb
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.CSharp.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.VisualBasic.Core.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Win32.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\Microsoft.Win32.Registry.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.AppContext.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Buffers.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Collections.Concurrent.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Collections.Immutable.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Collections.NonGeneric.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Collections.Specialized.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Collections.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.ComponentModel.Annotations.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.ComponentModel.DataAnnotations.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.ComponentModel.EventBasedAsync.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.ComponentModel.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.ComponentModel.TypeConverter.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.ComponentModel.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Configuration.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Console.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Core.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Data.Common.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Data.DataSetExtensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Data.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Diagnostics.Contracts.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Diagnostics.Debug.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Diagnostics.FileVersionInfo.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Diagnostics.Process.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Diagnostics.StackTrace.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Diagnostics.TextWriterTraceListener.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Diagnostics.Tools.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Diagnostics.TraceSource.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Diagnostics.Tracing.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Drawing.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Drawing.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Dynamic.Runtime.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Formats.Tar.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Globalization.Calendars.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Globalization.Extensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Globalization.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.Compression.Brotli.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.Compression.FileSystem.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.Compression.ZipFile.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.Compression.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.FileSystem.AccessControl.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.FileSystem.DriveInfo.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.FileSystem.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.FileSystem.Watcher.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.FileSystem.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.IsolatedStorage.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.MemoryMappedFiles.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.Pipes.AccessControl.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.Pipes.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.UnmanagedMemoryStream.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.IO.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Linq.Expressions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Linq.Parallel.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Linq.Queryable.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Linq.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Memory.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.Http.Json.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.Http.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.HttpListener.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.Mail.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.NameResolution.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.NetworkInformation.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.Ping.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.Quic.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.Requests.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.Security.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.ServicePoint.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.Sockets.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.WebClient.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.WebHeaderCollection.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.WebProxy.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.WebSockets.Client.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.WebSockets.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Net.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Numerics.Vectors.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Numerics.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.ObjectModel.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Private.DataContractSerialization.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Private.Uri.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Private.Xml.Linq.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Private.Xml.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Reflection.DispatchProxy.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Reflection.Emit.ILGeneration.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Reflection.Emit.Lightweight.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Reflection.Emit.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Reflection.Extensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Reflection.Metadata.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Reflection.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Reflection.TypeExtensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Reflection.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Resources.Reader.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Resources.ResourceManager.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Resources.Writer.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.CompilerServices.VisualC.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.Extensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.Handles.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.InteropServices.JavaScript.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.InteropServices.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.Intrinsics.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.Loader.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.Numerics.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.Serialization.Formatters.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.Serialization.Json.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.Serialization.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.Serialization.Xml.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.Serialization.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Runtime.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.AccessControl.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.Claims.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.Cryptography.Algorithms.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.Cryptography.Cng.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.Cryptography.Csp.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.Cryptography.Encoding.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.Cryptography.OpenSsl.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.Cryptography.Primitives.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.Cryptography.X509Certificates.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.Cryptography.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.Principal.Windows.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.Principal.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.SecureString.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Security.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.ServiceModel.Web.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.ServiceProcess.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Text.Encoding.Extensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Text.Encoding.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Text.Json.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Text.RegularExpressions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Threading.Channels.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Threading.Overlapped.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Threading.Tasks.Dataflow.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Threading.Tasks.Extensions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Threading.Tasks.Parallel.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Threading.Tasks.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Threading.Thread.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Threading.ThreadPool.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Threading.Timer.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Threading.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Transactions.Local.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Transactions.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.ValueTuple.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Web.HttpUtility.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Web.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Windows.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Xml.Linq.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Xml.ReaderWriter.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Xml.Serialization.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Xml.XDocument.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Xml.XPath.XDocument.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Xml.XPath.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Xml.XmlDocument.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Xml.XmlSerializer.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Xml.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\WindowsBase.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\mscorlib.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\netstandard.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\System.Private.CoreLib.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\dotnet.js
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\dotnet.timezones.blat
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\dotnet.wasm
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\icudt.dat
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\icudt_CJK.dat
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\icudt_EFIGS.dat
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\bin\Debug\net7.0\icudt_no_CJK.dat
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\BookStoreBlazor.csproj.AssemblyReference.cache
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\BookStoreBlazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\BookStoreBlazor.AssemblyInfoInputs.cache
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\BookStoreBlazor.AssemblyInfo.cs
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\BookStoreBlazor.csproj.CoreCompileInputs.cache
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\BookStoreBlazor.MvcApplicationPartsAssemblyInfo.cache
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\X0wVAsaL.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\pkhKMfOu.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\0u6k52wF.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\xmKbr0Qd.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\jfOV+7rK.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\o1NAjtjH.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\uOJ2lP4i.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\SMOK6+84.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\fezxaQG1.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\YVuFusvV.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\3PNwWVSV.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\fxnIHV9N.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\TOJ+60Ke.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\7G+gCoHq.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\eEiCmDEm.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\rOZ8LcKA.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\A+XdleOQ.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\Gcnfe91o.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\JHztFdz7.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\IDYHbbvb.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\yCLrmOu9.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\CYOM4Kmf.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\zwEyltCa.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\SzZ6lQbx.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\Ru2ahK7g.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\OEjm2Im4.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\NCuxTYDj.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\ZuneLHEA.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\bQXNcZJ+.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\xhfNm8dh.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\YayAKci3.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\6+0tYvkf.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\oScMOc5F.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\T40KGY8e.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\8XUH3LNE.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\IkxkfkVX.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\NRQV3Cq3.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\KLsm90Wo.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\0yXNex+L.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\WnVjC2LS.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\jhAUCSjn.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\snoi+Zf0.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\5wknfPpX.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\IpgYnwX2.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\B7mY2YcE.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\gancrqz5.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\2kUDsD2o.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\I8wzlmMd.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\P8EiNTdy.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\zrrNLlEP.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\+y+vWBXd.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\ibB2+ijs.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\QZF9robN.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\+o5it7Qj.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\ohC9n5KG.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\JGtTIHxU.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\IOOUpSx7.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\H7TORkgO.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\U6XqDijV.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\aqKWsTgn.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\I4QllCRD.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\VyINI7Ob.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\20MmZmoM.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\5KJr26np.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\IMzZbKZs.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\tRrIhvoj.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\4c3nkZHQ.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\fqtbit+b.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\7zwvlWJZ.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\5h0Ofvvk.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\LjWGzee3.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\ekXJs5Vm.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\px2+fQ3V.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\f9ERiPI+.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\dMhsK5La.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\yFSVZ4QP.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\tN2lLQq4.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\Ybzgw8wT.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\2rjsfPib.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\VFsZEGjD.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\7+BHLEPQ.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\m+CpH4vH.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\2vTfxNPc.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\yBvA3aLo.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\skM7KTJp.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\KsVMdaAp.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\WdY+YspH.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\BzHtAuYG.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\JiWWVl6H.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\qNUsc55J.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\gg8+CeoJ.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\VZlwyt7+.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\7dJyLQPK.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\OoRWlnZG.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\BJrmzwZD.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\YN+FMfij.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\9DrdBBU3.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\VFIJ4Y+E.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\H0RSDfu+.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\fa+pS2hV.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\8qvy+2gR.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\6oeCAv+3.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\BgKZtDFo.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\mmN0tm8y.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\nbo2xRkO.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\3hv+pQAK.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\PykPBe4k.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\bhU7sGd3.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\g9++DylZ.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\LIkG2K2B.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\P84wDSUf.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\Wf6+b5Fg.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\LB2yVizr.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\qCSCHPS5.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\z3i7RWW9.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\KnTsNyA5.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\zSrt+bvf.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\8hWWyG9w.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\w2Euzr+Q.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\RcphCWgT.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\VRiv5yX8.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\SB0x6cEo.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\ziHvRA+P.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\rQB4e9+c.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\2gXQCmVa.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\wj5pQ0WQ.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\uO1gBGL8.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\T2a5qG3Q.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\KJGBG9oz.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\q7S7ty4a.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\XWfwi4rS.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\Gwp++kAp.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\tSmqeCm6.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\2F0KaBeL.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\PRhZTjl+.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\TzzdjZSz.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\SFqXxDmn.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\b8aBAB8K.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\0HcAlNvd.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\nSdxxNXx.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\sYlUb18t.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\dNjGJlsh.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\l7fkmu2b.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\1VDfMb05.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\Xn1g5Wi7.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\kgeas4Y1.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\b5NN7D7U.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\sNTqfzv1.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\pKOOvg30.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\mEkJytcO.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\ql2Xt1gY.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\lsR+1xUb.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\rmTuk2A0.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\z6u+luna.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\6rPdq3gW.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\S37Nz+aS.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\0bHHXVvJ.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\e+7am7wS.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\RxThjJSl.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\jXTeKkHj.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\f0c4Xjhe.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\JMCPe1z4.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\20gVCKpm.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\zTS44mLH.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\LRxNs+06.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\U1nFvImf.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\JMB3u+zG.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\cLEmsVi3.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\qLd6vpY5.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\EOxZ8ZPE.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\EcU2nYku.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\ItT45XLY.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\OmwExrSK.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\4+nldmiF.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\Ne7QoMS5.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\T1ZWW8ll.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\fTV2hHJc.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\c3SMsWCX.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\nYrmNUlW.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\a+qjemLZ.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\8F4w6BWc.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\AsYDg2pg.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\he15QCoY.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\mRxIwkvV.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\ekiQXf8G.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\s04UfBAb.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\cJiWhY1V.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\vICTjlkF.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\2fsHCPlf.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\YTnReer+.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\6z1YZcrm.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\wR50gpZE.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\bm5fmcSE.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\8f9TLiwm.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\AbnStNiM.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\4Omm5FFU.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\rvQkSGUr.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\kMDYH11c.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\+F+++D7W.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\mLXqCKAc.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\build-gz\lFTQlxRQ.gz
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\blazor.boot.json
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\staticwebassets\msbuild.BookStoreBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\staticwebassets\msbuild.build.BookStoreBlazor.props
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreBlazor.props
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BookStoreBlazor.props
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\staticwebassets.pack.json
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\staticwebassets.build.json
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\staticwebassets.development.json
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\scopedcss\bundle\BookStoreBlazor.styles.css
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\scopedcss\projectbundle\BookStoreBlazor.bundle.scp.css
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\BookStoreBlazor.csproj.CopyComplete
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\BookStoreBlazor.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\refint\BookStoreBlazor.dll
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\BookStoreBlazor.pdb
+D:\KULIAH\Sem 4\Layanan\BookStoreRazor\obj\Debug\net7.0\ref\BookStoreBlazor.dll

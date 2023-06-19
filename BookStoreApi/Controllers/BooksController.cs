@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace BookStoreApi.Controllers;
 
-[ApiController]
+[ApiController]                                                                                         
 [Route("api/[controller]")]
 public class BooksController : ControllerBase
 {
@@ -21,7 +21,7 @@ public class BooksController : ControllerBase
         _booksService = booksService;
 
     [HttpGet]
-    [Authorize]
+    // [Authorize]
     [ProducesResponseType(StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status401Unauthorized)]
@@ -32,7 +32,7 @@ public class BooksController : ControllerBase
 
     
     [HttpGet("{id:length(24)}")]
-    [Authorize]
+    // [Authorize]
     [ProducesResponseType(StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status401Unauthorized)]
@@ -53,7 +53,7 @@ public class BooksController : ControllerBase
 
    // [HttpPost]
     [HttpPost]
-    [Authorize]
+    // [Authorize]
     [ProducesResponseType(StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status401Unauthorized)]
@@ -67,7 +67,7 @@ public class BooksController : ControllerBase
     }
 
     [HttpPut("{id:length(24)}")]
-    [Authorize]
+    // [Authorize]
     [ProducesResponseType(StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status401Unauthorized)]
@@ -90,7 +90,7 @@ public class BooksController : ControllerBase
     }
 
     [HttpDelete("{id:length(24)}")]
-    [Authorize]
+    // [Authorize]
     [ProducesResponseType(StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status401Unauthorized)]

@@ -11,6 +11,16 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.Configure<BookStoreDatabaseSettings>(
     builder.Configuration.GetSection("BookStoreDatabase"));
+builder.Services.Configure<BookStoreDatabaseSettings>(
+    builder.Configuration.GetSection("GuruDatabase"));
+builder.Services.Configure<BookStoreDatabaseSettings>(
+    builder.Configuration.GetSection("MapelDatabase"));
+builder.Services.Configure<BookStoreDatabaseSettings>(
+    builder.Configuration.GetSection("KelasDatabase"));
+builder.Services.Configure<BookStoreDatabaseSettings>(
+    builder.Configuration.GetSection("PresesiMengajarDatabase"));
+builder.Services.Configure<BookStoreDatabaseSettings>(
+    builder.Configuration.GetSection("PresesiHarianGuruDatabase"));
 
 builder.Services.AddSingleton<BooksService>();
 

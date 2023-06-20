@@ -4,11 +4,11 @@ using MongoDB.Driver;
 
 namespace BookStoreApi.Services;
 
-public class BooksService
+public class PresensiHarianGuruService
 {
     private readonly IMongoCollection<PresesiHarianGuru> _presensiHarianGuruCollection;
 
-    public BooksService(
+    public PresensiHarianGuruService(
         IOptions<BookStoreDatabaseSettings> bookStoreDatabaseSettings)
     {
         var mongoClient = new MongoClient(

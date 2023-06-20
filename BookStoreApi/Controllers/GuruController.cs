@@ -10,11 +10,11 @@ namespace BookStoreApi.Controllers;
 public class GurusController : ControllerBase
 {
 
-    /// <response code="201">Returns the newly created item</response>
-    /// <response code="400">If the item is null</response>
-    /// <response code="401">If the item is Unauthorized</response>
-    /// <response code="404">If the item is not Found</response>
-    /// <response code="500">Internal server Error</response>
+    // / <response code="201">Returns the newly created item</response>
+    // / <response code="400">If the item is null</response>
+    // / <response code="401">If the item is Unauthorized</response>
+    // / <response code="404">If the item is not Found</response>
+    // / <response code="500">Internal server Error</response>
     private readonly GuruService _gurusService;
 
     public gurusController(GuruService gurusService) =>

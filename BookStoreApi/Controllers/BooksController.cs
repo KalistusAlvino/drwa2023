@@ -5,16 +5,11 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace BookStoreApi.Controllers;
 
-[ApiController]                                                                                         
+[ApiController]
 [Route("api/[controller]")]
+[Produces("application/json")]
 public class BooksController : ControllerBase
 {
-
-    /// <response code="201">Returns the newly created item</response>
-    /// <response code="400">If the item is null</response>
-    /// <response code="401">If the item is Unauthorized</response>
-    /// <response code="404">If the item is not Found</response>
-    /// <response code="500">Internal server Error</response>
     private readonly BooksService _booksService;
 
     public BooksController(BooksService booksService) =>
@@ -22,23 +17,18 @@ public class BooksController : ControllerBase
 
     [HttpGet]
     // [Authorize]
-    [ProducesResponseType(StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status401Unauthorized)]
     [ProducesResponseType(StatusCodes.Status404NotFound)]
     [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    public async Task<List<Book>> Get() =>
-        await _booksService.GetAsync();
+    public async Task<List<Book>> Get() => await _booksService.GetAsync();
 
-    
     [HttpGet("{id:length(24)}")]
     // [Authorize]
-    [ProducesResponseType(StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status401Unauthorized)]
     [ProducesResponseType(StatusCodes.Status404NotFound)]
     [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    [ProducesResponseType(StatusCodes.Status404NotFound)]
     public async Task<ActionResult<Book>> Get(string id)
     {
         var book = await _booksService.GetAsync(id);
@@ -50,11 +40,8 @@ public class BooksController : ControllerBase
 
         return book;
     }
-
-   // [HttpPost]
     [HttpPost]
     // [Authorize]
-    [ProducesResponseType(StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status401Unauthorized)]
     [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -62,13 +49,28 @@ public class BooksController : ControllerBase
     public async Task<IActionResult> Post(Book newBook)
     {
         await _booksService.CreateAsync(newBook);
-
         return CreatedAtAction(nameof(Get), new { id = newBook.Id }, newBook);
+        // try{
+        //     if(newBook ==null){
+        //         return BadRequest();
+        //     }
+        //     var emp = _booksService.GetAsync();
+        //     if(emp != null){
+        //         ModelState.AddModelError("Id, BookName, Price, Category, Author", "Sudah Digunakan");
+        //         return BadRequest(ModelState);
+        //     }
+        //     await _booksService.CreateAsync(newBook);
+        //     return CreatedAtAction(nameof(Get), new { id = newBook.Id }, newBook);
+        // }
+        // catch(Exception){
+        //      return StatusCode(StatusCodes.Status500InternalServerError,
+        //     "Error retrieving data from the database");
+        // }
+
     }
 
     [HttpPut("{id:length(24)}")]
     // [Authorize]
-    [ProducesResponseType(StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status401Unauthorized)]
     [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -91,7 +93,6 @@ public class BooksController : ControllerBase
 
     [HttpDelete("{id:length(24)}")]
     // [Authorize]
-    [ProducesResponseType(StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status401Unauthorized)]
     [ProducesResponseType(StatusCodes.Status404NotFound)]

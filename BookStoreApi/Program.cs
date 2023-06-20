@@ -4,31 +4,30 @@ using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-
-var MyAllowSpecificOrigins = "_myAllowSpecificOrigins"; 
+    
 var builder = WebApplication.CreateBuilder(args);
 
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: MyAllowSpecificOrigins,
+                      policy  =>
+                      {
+                          policy.WithOrigins("http://localhost:5207");
+                      });
+});
 // Add services to the container.
 builder.Services.Configure<BookStoreDatabaseSettings>(
     builder.Configuration.GetSection("BookStoreDatabase"));
-builder.Services.Configure<BookStoreDatabaseSettings>(
-    builder.Configuration.GetSection("GuruDatabase"));
-builder.Services.Configure<BookStoreDatabaseSettings>(
-    builder.Configuration.GetSection("MapelDatabase"));
-builder.Services.Configure<BookStoreDatabaseSettings>(
-    builder.Configuration.GetSection("KelasDatabase"));
-builder.Services.Configure<BookStoreDatabaseSettings>(
-    builder.Configuration.GetSection("PresesiMengajarDatabase"));
-builder.Services.Configure<BookStoreDatabaseSettings>(
-    builder.Configuration.GetSection("PresesiHarianGuruDatabase"));
 
 builder.Services.AddSingleton<BooksService>();
 
-// Add services to the container.
+// builder.Services.AddControllers().AddJsonOptions(
+//         options => options.JsonSerializerOptions.PropertyNamingPolicy = null);
 
-builder.Services.AddControllers()
-    .AddJsonOptions(
-        options => options.JsonSerializerOptions.PropertyNamingPolicy = null);
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+builder.Services.AddControllers();
 builder.Services.AddAuthentication(options =>
 {
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -49,8 +48,7 @@ builder.Services.AddAuthentication(options =>
 });
 builder.Services.AddAuthorization();
 // Add configuration from appsettings.json
-builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
-    .AddEnvironmentVariables();
+builder.Configuration.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true).AddEnvironmentVariables();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
@@ -58,7 +56,7 @@ builder.Services.AddSwaggerGen(options =>
     options.SwaggerDoc("v1", new OpenApiInfo
     {
         Version = "v1",
-        Title = "BookStore API",
+        Title = "BookStore Api",
         Description = "An ASP.NET Core Web API for managing BookStore items",
         TermsOfService = new Uri("https://example.com/terms"),
         Contact = new OpenApiContact
@@ -72,15 +70,9 @@ builder.Services.AddSwaggerGen(options =>
             Url = new Uri("https://example.com/license")
         }
     });
-});
-
-builder.Services.AddCors(options =>
-{
-        options.AddPolicy(name : MyAllowSpecificOrigins,
-                          policy =>
-                          {
-                            policy.WithOrigins("http://localhost:5207");
-                          });
+    //using System.Reflection;
+    // var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    // options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
 });
 
 var app = builder.Build();
@@ -96,12 +88,11 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
-app.UseCors(MyAllowSpecificOrigins);
-
 IConfiguration configuration = app.Configuration;
 
 IWebHostEnvironment environment = app.Environment;
 
+app.UseCors(MyAllowSpecificOrigins);
 
 app.MapControllers();
 

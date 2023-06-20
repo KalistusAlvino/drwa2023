@@ -4,11 +4,11 @@ using MongoDB.Driver;
 
 namespace BookStoreApi.Services;
 
-public class BooksService
+public class MapelService
 {
     private readonly IMongoCollection<Mapel> _mapelsCollection;
 
-    public BooksService(
+    public MapelService(
         IOptions<BookStoreDatabaseSettings> bookStoreDatabaseSettings)
     {
         var mongoClient = new MongoClient(
@@ -17,7 +17,7 @@ public class BooksService
         var mongoDatabase = mongoClient.GetDatabase(
             bookStoreDatabaseSettings.Value.DatabaseName);
 
-        _booksCollection = mongoDatabase.GetCollection<Book>(
+        _mapelsCollection = mongoDatabase.GetCollection<Mapel>(
             bookStoreDatabaseSettings.Value.BooksCollectionName);
     }
 

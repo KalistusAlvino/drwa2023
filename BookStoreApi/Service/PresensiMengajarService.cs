@@ -4,11 +4,11 @@ using MongoDB.Driver;
 
 namespace BookStoreApi.Services;
 
-public class BooksService
+public class PresensiMengajarService
 {
     private readonly IMongoCollection<PresensiMengajar> _presensiMengajarCollection;
 
-    public BooksService(
+    public PresensiMengajarService(
         IOptions<BookStoreDatabaseSettings> bookStoreDatabaseSettings)
     {
         var mongoClient = new MongoClient(
